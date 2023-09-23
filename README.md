@@ -6,6 +6,9 @@ This Jupyter notebook is part of a customer segmentation project that focuses on
 ## K-Means Clustering Algorithm
 K-Means is a popular unsupervised machine learning algorithm used for clustering data points into groups or clusters based on their similarity. It is widely used in various fields, including customer segmentation, image compression, and data analysis.
 
+## Decision Tree Algorithm
+The Decision Tree algorithm is a supervised machine learning technique used for classification and regression tasks. It creates a tree-like model where each internal node represents a feature, each branch represents a decision based on that feature, and each leaf node represents the final predicted outcome (class label or numerical value). The algorithm recursively selects features and splits data to create decision rules, making it a interpretable and widely used method in machine learning.
+
 ## Dataset Overview
 CustomerID: A unique identifier for each customer.
 Gender: Customer gender (Male or Female).
