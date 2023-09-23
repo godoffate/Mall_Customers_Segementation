@@ -14,7 +14,7 @@ Annual Income (k$): Customer annual income in thousands of dollars.
 Spending Score (1-100): A score reflecting customer spending behavior and habits.
 
 ## Purpose
-The primary objective of this analysis is to employ K-Means Clustering to segment customers based on their attributes and behavior. By effectively segmenting customers, we aim to gain valuable insights into their preferences and habits. These insights can be leveraged to tailor marketing strategies, ultimately enhancing customer satisfaction and optimizing business operations.
+The primary objective of this analysis is to employ both K-Means Clustering and Decision Tree techniques to segment customers based on their attributes and behavior. By effectively segmenting customers using these two methods, we aim to gain valuable insights into their preferences and habits. These insights can be leveraged to tailor marketing strategies, ultimately enhancing customer satisfaction and optimizing business operations.
 
 ## Notebook Highlights
 
@@ -22,10 +22,11 @@ Throughout this Jupyter notebook, we will undertake the following tasks:
 
 1. Explore the dataset and perform essential data preprocessing.
 2. Apply the K-Means Clustering algorithm to group customers into distinct segments.
-3. Visualize the resulting clusters and analyze their unique characteristics.
-4. Determine the optimal number of clusters using various methods, ensuring the accuracy of our segmentation.
-5. Employ Hierarchical Clustering to perform additional segmentation, allowing for a deeper understanding of customer behavior.
+3. Utilize Decision Tree analysis to further refine customer segmentation and uncover underlying patterns.
+4. Visualize the resulting clusters and decision tree analysis results to analyze their unique characteristics.
+5. Determine the optimal number of clusters using various methods, ensuring the accuracy of our segmentation in K-Means Clustering.
+6. Employ Hierarchical Clustering to perform additional segmentation, allowing for a deeper understanding of customer behavior.
+   
+This analysis aims to provide actionable insights for mall management and marketing teams. By combining K-Means Clustering and Decision Tree techniques for customer segmentation, the project aims to enhance customer engagement and improve overall business performance.
 
-This analysis aims to provide actionable insights for mall management and marketing teams. By understanding customer segments better through K-Means Clustering, the project aims to enhance customer engagement and improve overall business performance.
-
-Feel free to navigate through the Jupyter notebook to explore the details of each step in our customer segmentation project.
+Feel free to navigate through the Jupyter notebook to explore the details of each step in our customer segmentation project, which combines K-Means Clustering and Decision Tree analysis for comprehensive insights.
