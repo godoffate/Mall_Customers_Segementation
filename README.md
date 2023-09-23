@@ -1,4 +1,4 @@
-# CUSTOMER SEGMENTATION USING K-MEANS
+# CUSTOMER SEGMENTATION USING K-MEANS & DECISION TREE
 
 ## Introduction
 This Jupyter notebook is part of a customer segmentation project that focuses on clustering and analyzing customers based on a dataset obtained from a shopping mall. The dataset comprises valuable information about the mall's customers, including their age, annual income, spending score, unique identifiers, and gender.
